@@ -1,0 +1,9 @@
+name: HFCS0
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+  - nb_conda
+  - matplotlib
+prefix: D:\anaconda3_install\envs\HFCS0
